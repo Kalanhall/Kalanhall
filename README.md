@@ -2,9 +2,9 @@
 
 ### 你好，世界 base 中国·深圳 👋
 
-- :punch: Focusing on Swift / Objc & iOS
-- :hammer: Creator of applications and frameworks
-- :tropical_fish: Programming lover
+- :punch: \t Focusing on Swift / Objc & iOS
+- :hammer: \t Creator of applications and frameworks
+- :tropical_fish: \t Programming lover
 
 
 <!--
