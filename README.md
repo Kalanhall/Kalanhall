@@ -1,4 +1,4 @@
-<img align="right" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2329533490,3955959237&fm=26&gp=0.jpg" />
+<img align="right" src="blob:https://www.apple.com.cn/d0a8384a-5b15-42fa-8d1a-53a37dcba4a7" />
 
 ### 你好，世界 👋
 
