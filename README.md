@@ -1,4 +1,6 @@
-<video align="right" src="https://github.com/Kalanhall/TempFile/blob/master/Resource/siri.mp4"></video>
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="https://github.com/Kalanhall/TempFile/blob/master/Resource/siri.mp4" type="video/mp4">
+</video>
 
 ### 你好，世界 👋
 
